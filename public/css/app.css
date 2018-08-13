@@ -1,0 +1,120 @@
+.panel-margin{
+	margin-top:  30px;
+	margin-right: 50px;
+}
+.dept-margin{
+	margin-top:  30px;
+	margin-left: 50px;
+}
+.head{
+	text-align: center;
+}
+
+.form-spacing-top{
+	margin-top: 10px;
+}
+.view{
+	width:55px;
+}
+
+/*---------------------profile---------------*/
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+#leftPanel{
+    background-color:#0079ac;
+    color:#fff;
+    text-align: center;
+}
+
+#rightPanel{
+    min-height:415px;
+}
+
+/* Credit to bootsnipp.com for the css for the color graph */
+.colorgraph {
+  height: 5px;
+  border-top: 0;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+/*-------profile-----------*/
+
+.design{
+  background-color: #18a4d2;
+  font-size: 20px;
+  color: black;
+}
+.form{
+  background-color:lightblue;
+  color:black;
+  width: 725px;
+}
+.login{
+  background-color:lightgray;
+  color:black;
+  width: 725px;
+}
+
+.margin{
+  margin: 20px;
+}
+
+
+.font-color{
+  text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+
+/* image */
+.image-size{
+  margin-top: 25px;
+  height: 300px;
+  width: 750px;
+}
+.image-team{
+  height: 300px;
+  width: 300px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+button:hover, a:hover {
+  opacity: 0.7;
+}
